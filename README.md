@@ -1,4 +1,4 @@
-# 👷 `workerd`, Cloudflare's JavaScript/Wasm Runtime
+# 👷 `workerd`, Cloudflare's گسس مادره همگی /Wasm Runtime
 
 ![Banner](/docs/assets/banner.png)
 
